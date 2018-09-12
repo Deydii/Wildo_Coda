@@ -1,0 +1,42 @@
+.droite, .container {
+
+}
+
+.texte {
+    text-align: justify;
+}
+
+.photo {
+    
+}
+
+.image-blog {
+    max-width: 98%;
+} 
+
+.date {
+    text-align: end;
+}
+
+.card-text {
+    overflow: hidden;
+}
+
+/* @media (max-width: @screen-xs-max) and (max-width: @screen-sm-max) {
+     .titre-blog {
+        display: flex;
+        flex-direction: column;
+     }
+}
+
+@media (min-width: @screen-lg-min) and (max-width: @screen-md-max)  {
+    .titre-blog {
+        display: flex;
+    }
+} */
+
+/*@media (min-width: @screen-lg-min) {
+    .titre-blog {
+         
+    }
+}*/
