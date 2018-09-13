@@ -1,7 +1,7 @@
-.navbar-brand{
-	font-family:"Alex Brush'", cursive;
-    font-weight: bold;
+.container-nav{
+	margin-top: 20px;
 }
+
 
 .container-nav li a{
 	font-family: "Source Code Pro", monospace;
@@ -10,7 +10,5 @@
 	font-weight: bold;
 }
 
-.container-header{
-	margin-top: 20px;
-}
+.
 
