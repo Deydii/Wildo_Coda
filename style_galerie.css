@@ -1,0 +1,49 @@
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { 
+    
+ }
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { 
+    
+ }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {
+
+ }
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { 
+    
+ }
+
+.galeryName {
+    color: white;
+}
+
+.grosContener {
+    background-color: white;
+}
+.galerieConterner {
+    background-color: white;
+}
+.fondPelicule {
+    background-color: black;
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+    border: 1em solid white;
+    
+}
+.pelicule {
+    background-color: black;
+    border-left: 1.5em dashed white;
+    border-right: 1.5em dashed white;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
+    height: 28%;
+}
+.galeryPicture {
+    margin-bottom: 0.4em;
+    height: auto;
+}
