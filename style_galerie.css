@@ -17,33 +17,21 @@
 @media (max-width: 1199.98px) { 
     
  }
-
 .galeryName {
-    color: white;
+    color: black;
 }
-
-.grosContener {
-    background-color: white;
-}
-.galerieConterner {
-    background-color: white;
-}
-.fondPelicule {
-    background-color: black;
-    margin-right: 1.5em;
-    margin-left: 1.5em;
-    border: 1em solid white;
-    
+body, .grosContener .galerieConterner .fondPelicule {
+    background-color: lightgrey;
 }
 .pelicule {
-    background-color: black;
-    border-left: 1.5em dashed white;
-    border-right: 1.5em dashed white;
-    padding-left: 1.3em;
-    padding-right: 1.3em;
-    height: 28%;
+    background: url("images/fondNegativeBW.jpg") repeat-y scroll center;
+    background-size: contain;
+    border-radius: 1em;
+    box-shadow: 3em 
 }
 .galeryPicture {
+    margin-top: 0.4em;
     margin-bottom: 0.4em;
+    width: 75%;
     height: auto;
 }
