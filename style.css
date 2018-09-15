@@ -2,6 +2,11 @@
     text-align: justify;
 }
 
+.text-dark-medium {
+    font-size: 1.05rem;
+    margin-bottom: 0rem;
+}
+
 .image-blog {
     max-width: 98%;
 } 
@@ -14,7 +19,7 @@
     display: block;
     display: -webkit-box;
     max-width: 100%;
-    height: 11vh;
+    /* height: 11vh; */
     margin: 1vh auto;
     -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
